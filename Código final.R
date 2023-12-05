@@ -704,6 +704,6 @@ Tabela_descritiva <- calcular_estatisticas_lista(lista_bases, nomes_bases, Tabel
 print(Tabela_descritiva)
 
 #Baixar tabela em .tex
-latex_tabela_descritiva <- xtable(Tabela_descritiva, caption = "Sua Tabela Descritiva", label = "tab:TabelaDescritiva")
+# latex_tabela_descritiva <- xtable(Tabela_descritiva, caption = "Sua Tabela Descritiva", label = "tab:TabelaDescritiva")
 
 print(latex_tabela_descritiva, include.rownames = TRUE, booktabs = TRUE, floating = FALSE)
