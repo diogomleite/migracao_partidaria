@@ -1,5 +1,5 @@
 # projetos1
-Base de dados e código R com análise estatística sobre o migração partidária e sucesso eleitoral.
+Base de dados e código R com análise estatística sobre migração partidária e sucesso eleitoral.
 
 Elaborado por Diogo Mendonça Leite, Jorge Augusto dos Reis Conde e Ricardo Pessotto Paschoa Filho para a disciplina "Metodologia e Técnicas de Pesquisa - Projeto I", da FGV - EESP.
 
