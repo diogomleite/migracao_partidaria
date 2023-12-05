@@ -1,5 +1,15 @@
 #Bibliotecas
 
+# Verificando se o pacote "Dplyr" está instalado
+if (!require(dplyr, quietly = TRUE)) {
+  install.packages("dplyr")
+}
+
+# Verificando se o pacote "Viridis" está instalado
+if (!require(viridis, quietly = TRUE)) {
+  install.packages("viridis")
+}
+
 # Verificando se o pacote "pwr" está instalado
 if (!require(pwr, quietly = TRUE)) {
   install.packages("pwr")
